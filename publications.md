@@ -19,7 +19,7 @@ Language Translation
    <span style="color:blue">International Conference on Computational Linguistics (COLING), 2025. </span>   
    [Paper](https://aclanthology.org/2025.coling-main.615/)    
 
-- <span style="background-color:lightgrey">**conference **</span>&nbsp; Bandit-based Attention Mechanism in Vision Transformers    
+- <span style="background-color:lightgrey">**conference**</span>&nbsp; Bandit-based Attention Mechanism in Vision Transformers    
    ***Amartya Roy Chowdhury***, Raghuram Bharadwaj, Prabuchandran K J, Achyut Mani Tripathi   
    <span style="color:blue">Winter Conference on Applications of Computer Vision (WACV), 2025. </span>   
    [Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Chowdhury_Bandit_Based_Attention_Mechanism_in_Vision_Transformers_WACV_2025_paper.pdf)    
@@ -37,7 +37,7 @@ Language Translation
    [conference](https://aclanthology.org/2024.lrec-main.574/)
 
 **2023**
-- <span style="background-color: bisque">**conference**</span>&nbsp; 
+- <span style="background-color: lightgrey">**conference**</span>&nbsp; 
   End to End Spoken Language Diarization with Wav2vec Embeddings   
   Jagabandhu Mishra, Jayadev N Patil, ***Amartya Roy Chowdhury***, S. R. Mahadeva Prasanna
   <span style="color:blue">INTERSPEECH 2023 </span>    
