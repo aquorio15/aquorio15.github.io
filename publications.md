@@ -31,9 +31,9 @@ Language Translation
    [conference](https://www.isca-archive.org/interspeech_2024/rajkhowa24_interspeech.html)
   
 - <span style="background-color: lightcyan">**conference**</span>&nbsp;
-   Evaluating the Efficacy of Large Acoustic Models for Documenting Non-Orthographic Tribal Languages in India   
+   Evaluating the Efficacy of Large Acoustic Models for Documenting Non-Orthographic Tribal Languages in India
+  Tonmoy Rajkhowa, ***Amartya Roy Chowdhury***, S. R. Mahadeva Prasanna   
    <span style="color:blue">International Conference on Computational Linguistics (COLING), 2024. </span>      
-   Tonmoy Rajkhowa, ***Amartya Roy Chowdhury***, S. R. Mahadeva Prasanna   
    [conference](https://aclanthology.org/2024.lrec-main.574/)
 
 **2023**
