@@ -45,7 +45,7 @@ Language Translation
   
 - <span style="background-color: lightblue">**workshop**</span>&nbsp; 
    Machine Translation for a Very Low-Resource Language - Layer Freezing Approach on Transfer Learning.   
-  ***Amartya Roy Chowdhury***, Deepak K. T, Samudra Vijaya K ,S R Mahadeva Prasanna     
+  ***Amartya Roy Chowdhury***, Deepak K. T, Samudra Vijaya K ,S R Mahadeva Prasanna 
   <span style="color:thistle"> LoResMT </span>    
    [workshop](https://proceedings.mlr.press/v180/das22b/das22b.pdf)
   
@@ -58,8 +58,8 @@ source transliteration
 
 - <span style="background-color: thistle">**conference**</span>&nbsp; 
   Direct vs Cascaded Speech-To-Speech Translation using Transformer       
-   Lalaram Arya, ***Amartya Roy Chowdhury***, S. R. Mahadeva Prasanna      
-   <span style="color:blue"> International Conference on Speech and Computer, 2023  </span>      
+   Lalaram Arya, ***Amartya Roy Chowdhury***, S. R. Mahadeva Prasanna
+  <span style="color:blue"> International Conference on Speech and Computer, 2023  </span>      
    [conference](https://link.springer.com/chapter/10.1007/978-3-031-48312-7_21)
   
 - <span style="background-color: thistle">**conference**</span>&nbsp; 
