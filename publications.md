@@ -12,17 +12,17 @@ Language Translation
    <!-- ***A Acharya***, S Sanghavi, A G Dimakis, I S Dhillon     -->
    Tonmoy Rajkhowa, ***Amartya Roy Chowdhury***, Achyut Mani Tripathi, Sanjeev Sharma, Om Jee Pandey
   <span style="color:blue">International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. </span>      
-   [Paper](https://ieeexplore.ieee.org/document/10888265/)
+   [conference](https://ieeexplore.ieee.org/document/10888265/)
 
 - <span style="background-color:bisque">**conference**</span>&nbsp; Towards Multilingual spoken Visual Question Answering system using Cross-Attention    
    ***Amartya Roy Chowdhury***, Tonmoy Rajkhowa, Achyut Mani Tripathi, Sanjeev Sharma, Om Jee Pandey   
    <span style="color:blue">International Conference on Computational Linguistics (COLING), 2025. </span>   
-   [Paper](https://aclanthology.org/2025.coling-main.615/)    
+   [conference](https://aclanthology.org/2025.coling-main.615/)    
 
 - <span style="background-color:bisque">**conference**</span>&nbsp; Bandit-based Attention Mechanism in Vision Transformers    
    ***Amartya Roy Chowdhury***, Raghuram Bharadwaj, Prabuchandran K J, Achyut Mani Tripathi   
    <span style="color:blue">Winter Conference on Applications of Computer Vision (WACV), 2025. </span>   
-   [Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Chowdhury_Bandit_Based_Attention_Mechanism_in_Vision_Transformers_WACV_2025_paper.pdf)    
+   [conference](https://openaccess.thecvf.com/content/WACV2025/papers/Chowdhury_Bandit_Based_Attention_Mechanism_in_Vision_Transformers_WACV_2025_paper.pdf)    
 
 **2024**
 - <span style="background-color: lightcyan">**conference**</span>&nbsp; TM-PATHVQA: 90000+ Textless Multilingual Questions for Medical Visual Question Answering   
@@ -41,42 +41,41 @@ Language Translation
   End to End Spoken Language Diarization with Wav2vec Embeddings   
   Jagabandhu Mishra, Jayadev N Patil, ***Amartya Roy Chowdhury***, S. R. Mahadeva Prasanna
   <span style="color:blue">INTERSPEECH 2023 </span>    
-   [Paper](https://www.isca-archive.org/interspeech_2023/mishra23_interspeech.html)
+   [conference](https://www.isca-archive.org/interspeech_2023/mishra23_interspeech.html)
   
 - <span style="background-color: lightblue">**workshop**</span>&nbsp; 
    Machine Translation for a Very Low-Resource Language - Layer Freezing Approach on Transfer Learning.   
   ***Amartya Roy Chowdhury***, Deepak K. T, Samudra Vijaya K ,S R Mahadeva Prasanna     
   <span style="color:thistle">NTERSPEECH 2023 </span>    
-   [Paper](https://proceedings.mlr.press/v180/das22b/das22b.pdf);[Arxiv](https://arxiv.org/abs/2012.04061)
+   [workshop](https://proceedings.mlr.press/v180/das22b/das22b.pdf);[Arxiv](https://arxiv.org/abs/2012.04061)
   
 - <span style="background-color:thistle">**conference**</span>&nbsp; Optimizing Direct Speech-to-Text Translation for un-orthographic low-resource tribal languages using
 source transliteration   
   Tonmoy Rajkhowa, ***Amartya Roy Chowdhury***, Prashant Bannulmath, Deepak K. T., S. R. Mahadeva Prasanna
   <span style="color:blue">Conference of the Oriental COCOSDA, 2023</span>
-  [IEEE](https://ieeexplore.ieee.org/document/10482960)
+  [conference](https://ieeexplore.ieee.org/document/10482960)
   
 
 - <span style="background-color: thistle">**conference**</span>&nbsp; 
   Direct vs Cascaded Speech-To-Speech Translation using Transformer       
    Lalaram Arya, ***Amartya Roy Chowdhury***, S. R. Mahadeva Prasanna      
    <span style="color:blue"> International Conference on Speech and Computer, 2023  </span>      
-   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-48312-7_21); 
-   <!-- [Code](https://github.com/anishacharya/DeLiCoCo) -->
-
+   [conference](https://link.springer.com/chapter/10.1007/978-3-031-48312-7_21)
+  
 - <span style="background-color: thistle">**conference**</span>&nbsp; 
   Bridging the Gap: Towards Linguistic Resource Development for the Low-Resource Lambani Language      
    Ashwini Dasare, ***Amartya Roy Chowdhury***, Aditya Srinivas Menon, Konjengbam Anand, Deepak K. T., S. R. Mahadeva Prasanna      
    <span style="color:blue"> International Conference on Speech and Computer, 2023  </span>      
-   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-48312-7_10); 
+   [conference](https://link.springer.com/chapter/10.1007/978-3-031-48312-7_10) 
 
 - <span style="background-color: thistle">**conference**</span>&nbsp; 
   Preliminary analysis of Lambani vowels and vowel classification using acoustic features      
    Leena Dihingia, Prashant Bannulmath, ***Amartya Roy Chowdhury***, S.R. Mahadeva Prasanna, K.T Deepak, Tehreem Sheikh
    <span style="color:blue"> International Conference on Speech and Computer, 2023  </span>      
-   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-48312-7_16); 
+   [conference](https://link.springer.com/chapter/10.1007/978-3-031-48312-7_16)
 
 - <span style="background-color: thistle">**conference**</span>&nbsp; 
   Significance of Audio Quality in Speech-to-Text Translation Systems     
    Tonmoy Rajkhowa, ***Amartya Roy Chowdhury***, S. R. Mahadeva Prasanna      
    <span style="color:blue"> International Conference on Speech and Computer, 2023  </span>      
-   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-48309-7_3); 
+   [conference](https://link.springer.com/chapter/10.1007/978-3-031-48309-7_3)
