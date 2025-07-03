@@ -33,6 +33,7 @@ navbar-links:
    Press: "press"   
    Awards: "awards"
    Outreach: "services"
+   Projects: "projects"
    Open Source:
      - Image Classification: "https://github.com/aquorio15/bandit_wacv"
      - Semi-Supervised model compression: "https://github.com/aquorio15/multimodal_llama_distillation"
