@@ -31,7 +31,7 @@ navbar-links:
    Publications: "publications"
   #  Talks: "talks"
    Press: "press"   
-   Awards: "awards"
+   Award: "awards"
    Outreach: "services"
    Project: "projects"
    Open Source:
@@ -41,7 +41,7 @@ navbar-links:
      - PathVQA: "https://github.com/aquorio15/path_vqa"
      - Audio Queston Answering: "https://github.com/aquorio15/aqa"
      # - Double Descent: "https://anishacharya.github.io/double-descent/"
-   Pointers:
+   Pointer:
     #  - WNCG: "http://wncg.org/people/students/anish-acharya"
     #  - Dhillon Lab: "https://bigdata.oden.utexas.edu/people/"
     #  - Double Descent: "double_descent"
