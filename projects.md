@@ -3,7 +3,7 @@ layout: page
 title: "" 
 ---
 <ul>
-- <span style="background-color: bisque">**Neural Machine Translation for Low-resource Tribal Language**</span>&nbsp;    
+ <li><span style="background-color: bisque"><strong>Neural Machine Translation for Low-resource Tribal Language</strong></span>&nbsp;</li>     
     <li>Worked on developing a POS tagger, lemmatizer, and stemmer for Lambani a low-resource language in India. The language technologies were then used to create an online dictionary to be used by the Tribal community.</li>
     <li>Collaborating with multiple NGOs around the country to develop Language Technologies for the marginalized communities and working on solutions to deploy them in resource-intensive scenarios.</li>
     <li>Development of resource-efficient Machine Translation (MT) model which can be deployed on mobile devices.</li>
