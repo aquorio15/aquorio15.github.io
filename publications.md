@@ -7,9 +7,7 @@ Google Bots are awesome at curating latest papers and citations on [Scholar Goog
 **Publications (grouped reverse chronologically)**.
 
 **2025**
-- <span style="background-color: bisque">**conference**</span>&nbsp; Semi-Supervised Knowledge Distillation Framework towards Lightweight Large Language Model for Spoken
-Language Translation      
-   <!-- ***A Acharya***, S Sanghavi, A G Dimakis, I S Dhillon     -->
+- <span style="background-color: bisque">**conference**</span>&nbsp; Semi-Supervised Knowledge Distillation Framework towards Lightweight Large Language Model for Spoken Language Translation      
    Tonmoy Rajkhowa, ***Amartya Roy Chowdhury***, Achyut Mani Tripathi, Sanjeev Sharma, Om Jee Pandey
   <span style="color:blue">International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. </span>      
    [conference](https://ieeexplore.ieee.org/document/10888265/)
@@ -40,19 +38,19 @@ Language Translation
 - <span style="background-color: thistle">**conference**</span>&nbsp; 
   End to End Spoken Language Diarization with Wav2vec Embeddings   
   Jagabandhu Mishra, Jayadev N Patil, ***Amartya Roy Chowdhury***, S. R. Mahadeva Prasanna
-  <span style="color:blue">INTERSPEECH 2023 </span>    
-   [conference](https://www.isca-archive.org/interspeech_2023/mishra23_interspeech.html)
+  <span style="color:blue"> INTERSPEECH 2023 </span>
+  [conference](https://www.isca-archive.org/interspeech_2023/mishra23_interspeech.html)
   
 - <span style="background-color: lightblue">**workshop**</span>&nbsp; 
    Machine Translation for a Very Low-Resource Language - Layer Freezing Approach on Transfer Learning.   
   ***Amartya Roy Chowdhury***, Deepak K. T, Samudra Vijaya K ,S R Mahadeva Prasanna 
-  <span style="color:thistle"> LoResMT </span>    
+  <span style="color:blue"> LoResMT </span>    
    [workshop](https://proceedings.mlr.press/v180/das22b/das22b.pdf)
   
 - <span style="background-color:thistle">**conference**</span>&nbsp; Optimizing Direct Speech-to-Text Translation for un-orthographic low-resource tribal languages using
 source transliteration   
   Tonmoy Rajkhowa, ***Amartya Roy Chowdhury***, Prashant Bannulmath, Deepak K. T., S. R. Mahadeva Prasanna
-  <span style="color:blue">Conference of the Oriental COCOSDA, 2023</span>
+  <span style="color:blue"> Conference of the Oriental COCOSDA, 2023 </span>
   [conference](https://ieeexplore.ieee.org/document/10482960)
   
 
@@ -71,7 +69,7 @@ source transliteration
 - <span style="background-color: thistle">**conference**</span>&nbsp; 
   Preliminary analysis of Lambani vowels and vowel classification using acoustic features      
    Leena Dihingia, Prashant Bannulmath, ***Amartya Roy Chowdhury***, S.R. Mahadeva Prasanna, K.T Deepak, Tehreem Sheikh
-   <span style="color:blue"> International Conference on Speech and Computer, 2023  </span>      
+   <span style="color:blue"> International Conference on Speech and Computer, 2023 </span>      
    [conference](https://link.springer.com/chapter/10.1007/978-3-031-48312-7_16)
 
 - <span style="background-color: thistle">**conference**</span>&nbsp; 
