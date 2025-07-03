@@ -46,8 +46,8 @@ Language Translation
 - <span style="background-color: lightblue">**workshop**</span>&nbsp; 
    Machine Translation for a Very Low-Resource Language - Layer Freezing Approach on Transfer Learning.   
   ***Amartya Roy Chowdhury***, Deepak K. T, Samudra Vijaya K ,S R Mahadeva Prasanna     
-  <span style="color:thistle">NTERSPEECH 2023 </span>    
-   [workshop](https://proceedings.mlr.press/v180/das22b/das22b.pdf);[Arxiv](https://arxiv.org/abs/2012.04061)
+  <span style="color:thistle"> LoResMT </span>    
+   [workshop](https://proceedings.mlr.press/v180/das22b/das22b.pdf)
   
 - <span style="background-color:thistle">**conference**</span>&nbsp; Optimizing Direct Speech-to-Text Translation for un-orthographic low-resource tribal languages using
 source transliteration   
