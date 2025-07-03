@@ -36,7 +36,7 @@ Google Bots are awesome at curating latest papers and citations on [Scholar Goog
    [conference](https://aclanthology.org/2024.lrec-main.574/)
 
 **2023**
-- <span style="background-color: lightcyan">**conference**</span>&nbsp;
+- <span style="background-color: thistle">**conference**</span>&nbsp;
    End to End Spoken Language Diarization with Wav2vec Embeddings
   Jagabandhu Mishra, Jayadev N Patil, ***Amartya Roy Chowdhury***, S. R. Mahadeva Prasanna   
    <span style="color:blue">INTERSPEECH 2023 </span>      
@@ -48,13 +48,13 @@ Google Bots are awesome at curating latest papers and citations on [Scholar Goog
   <span style="color:blue"> LoResMT </span>    
    [workshop](https://proceedings.mlr.press/v180/das22b/das22b.pdf)
 
-- <span style="background-color: lightblue">**conference**</span>&nbsp; 
+- <span style="background-color: thistle">**conference**</span>&nbsp; 
    Direct Speech-to-Text Translation for un-orthographic low-resource tribal languages using source transliteration    
   Tonmoy Rajkhowa, ***Amartya Roy Chowdhury***, Prashant Bannulmath, Deepak K. T., S. R. Mahadeva Prasanna 
   <span style="color:blue"> Conference of the Oriental COCOSDA, 2023 </span>
   [conference](https://ieeexplore.ieee.org/document/10482960)
   
-- <span style="background-color: lightblue">**conference**</span>&nbsp; 
+- <span style="background-color: thistle">**conference**</span>&nbsp; 
    Direct vs Cascaded Speech-To-Speech Translation using Transformer    
   Lalaram Arya, ***Amartya Roy Chowdhury***, S. R. Mahadeva Prasanna 
   <span style="color:blue"> International Conference on Speech and Computer, 2023  </span>      
